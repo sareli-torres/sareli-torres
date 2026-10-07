@@ -14,10 +14,23 @@ Master of Data Science student at the University of Queensland (Brisbane). Previ
 - ⚡ **Fun fact:** I ran my first 5K race and finished in third place.
 
 ### Main skills
+
+**Data & ML**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,aws,gcp,git,postgres" alt="Python, PyTorch, AWS, GCP, Git, PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" alt="Python, PyTorch, TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
+</p>
+
+**Cloud & databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,postgres,mysql,mongodb" alt="AWS, GCP, PostgreSQL, MySQL, MongoDB"/>
+</p>
+
+**Other tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,react,figma,git" alt="C++, React, Figma, Git"/>
+  <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="48" height="48"/>
 </p>
 
 SQL · dbt · BigQuery · Tableau · A/B testing · Salesforce
