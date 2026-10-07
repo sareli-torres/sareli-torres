@@ -14,26 +14,19 @@ Master of Data Science student at the University of Queensland (Brisbane). Previ
 - ⚡ **Fun fact:** I ran my first 5K race and finished in third place.
 
 ### Main skills
-
-**Data & ML**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" alt="Python, PyTorch, TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,aws,gcp,postgres,mysql,mongodb,cpp,react,figma,git" alt="Python, PyTorch, TensorFlow, AWS, GCP, PostgreSQL, MySQL, MongoDB, C++, React, Figma, Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
-</p>
-
-**Cloud & databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,postgres,mysql,mongodb" alt="AWS, GCP, PostgreSQL, MySQL, MongoDB"/>
-</p>
-
-**Other tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,react,figma,git" alt="C++, React, Figma, Git"/>
+  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" alt="BigQuery" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="48" height="48"/>
   <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="48" height="48"/>
 </p>
 
-SQL · dbt · BigQuery · Tableau · A/B testing · Salesforce
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<!-- Add only if you use it: ![Power BI](https://img.shields.io/badge/Power_BI-C79A00?style=for-the-badge) -->
 
 <!--
 ### Featured projects
