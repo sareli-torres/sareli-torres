@@ -15,7 +15,8 @@ Master of Data Science student at the University of Queensland (Brisbane). Previ
 
 ### Main skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,aws,gcp,postgres,mysql,mongodb,cpp,react,figma,git" alt="Python, PyTorch, TensorFlow, AWS, GCP, PostgreSQL, MySQL, MongoDB, C++, React, Figma, Git"/>
+  <img src="https://skillicons.dev/icons?i=py,r,pytorch,tensorflow,aws,gcp,postgres,mysql,mongodb,cpp,react,figma,git,vscode" alt="Python, R, PyTorch, TensorFlow, AWS, GCP, PostgreSQL, MySQL, MongoDB, C++, React, Figma, Git, VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" alt="Julia" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
   <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" alt="BigQuery" width="48" height="48"/>
@@ -23,9 +24,7 @@ Master of Data Science student at the University of Queensland (Brisbane). Previ
   <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="48" height="48"/>
 </p>
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+SQL · dbt · BigQuery · Tableau · A/B testing · Salesforce · Webflow
 <!-- Add only if you use it: ![Power BI](https://img.shields.io/badge/Power_BI-C79A00?style=for-the-badge) -->
 
 <!--
