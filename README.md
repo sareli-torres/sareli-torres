@@ -1,27 +1,40 @@
-# Hi 👋, I'm Sareli Torres
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=51247A&height=120&section=header" alt="header"/>
 
-### Data scientist from Peru, studying at UQ. Responsible AI, analytics, social impact.
+<a href="https://github.com/sareli-torres">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&duration=4500&pause=800&color=B79CED&width=600&lines=Hi%2C+I'm+Sareli+Torres;Data+scientist+from+Peru;Responsible+AI+%C2%B7+Analytics+%C2%B7+Social+impact" alt="Sareli Torres, data scientist"/>
+</a>
 
-- 🔭 I'm currently working on **Explainable deep learning for breast cancer histopathology (transfer learning and Grad-CAM).**
+Master of Data Science student at the University of Queensland (Brisbane). Previously Data Lead at Propel and Senior Analyst at DiDi.
 
-- 🌱 I'm currently learning **Machine learning and Responsible data science**
+### What I'm up to
+- 🔭 **Working on:** Explainable deep learning for breast cancer histopathology (transfer learning and Grad-CAM)
+- 🌱 **Learning:** Machine learning and responsible data science
+- 🤝 **Looking to collaborate on:** Research and projects on responsible AI and data for social impact
+- 💬 **Ask me about:** Python, SQL, dbt, BigQuery, A/B testing, dashboards and reporting
+- ⚡ **Fun fact:** I ran my first 5K race and finished in third place.
 
-- 👯 I'm looking to collaborate on **Research and projects on responsible AI and data for social impact.**
-
-- 💬 Ask me about **Python, R, Julia, C++, SQL, dbt, BigQuery, A/B testing, AWS, Salesforce, dashboards and reporting.**
-
-- 📫 How to reach me **sareli.torres.p@gmail.com**
-
-- ⚡ Fun fact **I ran my first 5K race and finished in third place. **
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1vJA5I2ZaFrBFsB5vOKLNGICJXqKqJ6zm/view?usp=sharing](https://drive.google.com/file/d/1vJA5I2ZaFrBFsB5vOKLNGICJXqKqJ6zm/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
+### Main skills
 <p align="left">
-<a href="https://github.com/sareli-torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sareli-torres" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/storresp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/storresp" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,aws,gcp,git,postgres" alt="Python, PyTorch, AWS, GCP, Git, PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+SQL · dbt · BigQuery · Tableau · A/B testing · Salesforce
 
+<!--
+### Featured projects
+Add this section once the repos are public:
+- [flight-delay-prediction](link) - one line about the problem and the result
+- [breast-cancer-histopathology](link) - one line
+-->
+
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-storresp-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/storresp)
+[![Email](https://img.shields.io/badge/Email-sareli.torres.p%40gmail.com-D14836?style=for-the-badge)](mailto:sareli.torres.p@gmail.com)
+
+### Employer?
+> [!IMPORTANT]
+> 📄 [Download my resume](https://drive.google.com/file/d/1vJA5I2ZaFrBFsB5vOKLNGICJXqKqJ6zm/view?usp=sharing)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=51247A&height=120&section=footer" alt="footer"/>
